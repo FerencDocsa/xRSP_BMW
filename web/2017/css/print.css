@@ -1,0 +1,76 @@
+body{
+    font-size: 10px;
+}
+
+#top-blok, #header, #left-panel, .kontakt-blok, #footer, #right-panel, #main-menu, .fb_iframe_widget, .naplast, .print-hidden,
+.soubory, .fotogalerie, .zapati-dekor {
+    display: none !important;
+    visibility: hidden;
+}
+#content, .no-panel #content, #left-blok {
+    width: auto;
+    float: none;
+}
+.half-blok {
+    width: 45%;
+
+}
+a {
+    text-decoration: underline !important;
+}
+a,p,div,h1,h2,h3,h4,h5,h6,li,th,td {
+    color: Black !important;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid Black;
+    background: #FFF;
+    width: auto;
+}
+table th,table td {
+    border: 1px solid Black;
+    padding: 3px 10px;
+    background: #FFF;
+}
+table th {
+    background: #F6F6F6;
+    font-weight: bold;
+}
+#content ul li {
+    list-style: circle !important;
+    padding: 5px 0;
+}
+.mme2013 p#cesta {
+        display: none !important;
+    }
+.mme2013 .day {
+        margin: 0.75em 0 0.5em 0;
+        padding: 0.5em;
+        background: #333;
+        color: #ffffff !important;
+    }
+.blok-mme {
+        margin: 0em 0 0.5em 0;
+        padding: 0.5em;
+        background: #ddd;
+        color: #000;
+}
+.mme2013 #content .padd {
+      margin-left: 15px;
+}
+.mme2013 #content ul.padd {
+    padding-bottom: 10px;
+}
+.mme2013 h4.padd {
+    text-decoration: underline;
+}
+
+.highlighted{
+     font-weight: bold;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 2px;
+}

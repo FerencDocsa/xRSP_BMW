@@ -1,0 +1,17 @@
+table#menza .datum {
+	width: 80px;
+}
+
+table#menza dl {
+	margin: 0;
+	padding: 0;
+}
+
+table#menza dl dt {
+	float: left;
+	font-weight: bold;
+}
+
+table#menza dl dd {
+	margin-left: 60px;
+}
