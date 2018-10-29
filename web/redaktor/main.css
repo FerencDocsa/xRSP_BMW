@@ -1,0 +1,155 @@
+.header h1 {
+  font-size: 70px;
+  font-weight: 100;
+}
+.header h4 {
+  text-align: center;
+  font-weight: 100;
+}
+.button1 {
+  width: 100px;
+  background-color: white;
+  text-align: center;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 7px;
+  margin: 7px;
+  cursor: pointer;
+}
+.buttons {
+  padding: 30px 30px 20px 60px;
+}
+.button1:hover {
+  background-color: white;
+  color: red;
+  border: 1px solid red;
+}
+.nast {
+    float: left;
+    padding: 60px;
+}
+.opr {
+  padding: 30px 30px 20px 60px;
+}
+.opr2 {
+  padding-top: 10px;
+  padding-left: 60px;
+  padding-bottom: 50px;
+}
+#deadline {
+  position: absolute;
+  left: 37%;
+  top: 42%;
+}
+.menu button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid lightgrey;
+  width: 70px;
+  font-size: 13px;
+}
+.stahnout {
+    width: 150px;
+}
+.loremimg {
+  border: 1px solid black;
+  width: 40%;
+}
+.poslat {
+    padding-top: 215px;
+}
+.huj {
+  float: right;
+  padding-left: 30px;
+}
+.hide {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+.nahrsoub {
+  display: inline-block;
+  width: 23.47%;
+  height: 40px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}
+.zaebalouze {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+}
+.uvedomit {
+  width: 100px;
+  cursor: pointer;
+  text-align: center;
+  padding: 7px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.dalshe {
+    padding-bottom: 200px;
+}
+.poznamky p {
+    font-size: 20px;
+}
+.rezenzenty {
+    padding-top: 50px;
+}
+#rec2 {
+    padding-left: 40px;
+}
+label {
+  display: inline-block;
+  width: 120px;
+  cursor: pointer;
+  text-align: center;
+  padding: 7px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  font-size: 13px;
+}
+.zalozit {
+  background-color: white;
+  color: blue;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+.savecancel {
+    padding-top: 50px;
+}
+.changbtn {
+    width: 120px;
+    color: blue;
+    border-color: blue;
+}
+.cancelbtn {
+    width: 100px;
+    color: red;
+    border-color: red;
+}
+.main {
+    padding-top: 60%;
+}
+.lorem {
+  padding-left: 2%;
+}
+.footer {
+  text-align: center;
+  padding-top: 50px;
+}
+.footer h2 {
+  font-size: 70px;
+  font-weight: 100;
+}
