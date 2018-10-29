@@ -1,6 +1,6 @@
 ## Tymovy projekt tymu BMW 
 
-#D okumentace:
+# Dokumentace:
 >  [Google.Docs](https://docs.google.com/document/d/14USfzyi3LboNQhoDxX1HMjY-6ARUcd4vwv3pjbF-m7k/edit?usp=sharing/)
 
 
