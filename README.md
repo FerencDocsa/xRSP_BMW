@@ -1,6 +1,6 @@
 ## Tymovy projekt tymu BMW 
 
-# Dokumentace:
+### Dokumentace:
 >  [Google.Docs](https://docs.google.com/document/d/14USfzyi3LboNQhoDxX1HMjY-6ARUcd4vwv3pjbF-m7k/edit?usp=sharing/)
 
 
@@ -10,9 +10,14 @@ Navrh designu
 
 
  ## Složení tymu
- **-Ilya Khoroshavin
-    -Kira Shavarina
-    -Ferenc Docsa
-    -Denis Peresichansky
-    -Ilya Kosonoh**
+ **1)Ilya Khoroshavin**
+ 
+   **2)Kira Shavarina**
+   
+   **3)Ferenc Docsa**
+   
+   **4)Denis Peresichansky**
+   
+   **5)Ilya Kosonoh**
+
 
