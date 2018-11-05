@@ -1,6 +1,6 @@
 ## Tymovy projekt tymu BMW 
 ### Dokumentace:
->  [Google.Docs](https://docs.google.com/document/d/14USfzyi3LboNQhoDxX1HMjY-6ARUcd4vwv3pjbF-m7k/edit?usp=sharing/)
+>  [Google.Docs](https://docs.google.com/document/d/1gpM8CLEH5uC0vihNYhgMFsJcbN-KFa1R5f8CF6kMFQA/edit)
 
 
 ## LOGOS DESIGN PROTOTYPE: 
