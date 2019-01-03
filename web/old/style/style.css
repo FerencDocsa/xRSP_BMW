@@ -1,0 +1,122 @@
+/* BODY */
+.login-home form {
+    border: 2px solid rgba(0,0,0,0.25);;
+    border-radius: 2px;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 1em;
+}
+
+.middle {
+    padding: 10px 0 50px 0;
+}
+
+div{
+    display: block;
+}
+
+.tabl1
+{
+    background-color: rgb(248,249,250);
+    border: 1.5px solid;
+    border-color: rgba(0,0,0,0.25);
+    padding: 5px 5px 5px 5px;
+}
+
+.border-main p{
+    padding-left: 25px;
+}
+
+.border-main h5{
+ padding-left: 10px;   
+    padding-top: 5px;
+}
+
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+
+/* Header Text */
+.header
+{
+    border: 10px;
+}
+
+.header h1 {
+    font-size: 70px;
+    font-weight: 100;
+    text-align: justify-all;
+}
+
+/* Bootstrap Buttons Align */
+.btns {
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+
+.btns #logout{
+    float: right;
+    margin-right: 11%;
+}
+
+.btns #user_l{
+    float: right;
+    margin-right: 1% ;
+    margin-top: 5px;
+}
+
+/* Form CSS */
+.form-zalozeni {
+    background-color: rgba(0, 0, 0, 0.10);
+    font-size: 16px;
+    padding: 30px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.inp label
+{
+    margin-left: 5%;
+    display: inline-block;
+    width: 25%;
+}
+
+h2{
+    margin-left: 5%;
+}
+
+.btn-odeslat{
+    float: right;
+    margin-right: 9.4%;
+    width: 10%;
+
+}
+.inp input, select
+{
+    width: 60%;
+    height: 5%;
+}
+
+/* Footer Part */
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: rgba(0,0,0, 0.25);
+    text-align: center;
+}
